@@ -8,5 +8,7 @@ public class Demo
 	public void m1()
 	{
 		System.out.println("Hii world");
+				System.out.println("Hii India");
+
 	}
 }
